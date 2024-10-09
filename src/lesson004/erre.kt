@@ -5,5 +5,5 @@ fun main() {
     for (i in 1..365) {
         sum += i
     }
-    println(sum)
+    println("Sum of 1 to 365 is $sum")
 }
