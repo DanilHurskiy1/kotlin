@@ -6,4 +6,5 @@ fun main() {
         sum += i
     }
     println("Sum of 1 to 365 is $sum")
+    println(sum)
 }
