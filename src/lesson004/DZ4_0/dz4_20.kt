@@ -8,8 +8,8 @@ fun gcd(a: Int, b: Int): Int {
 }
 
 fun main() {
-    val number1 = 56
-    val number2 = 98
+    val number1 = 98
+    val number2 = 56
     val result = gcd(number1, number2)
     println("The GCD of $number1 and $number2 is $result")
 }
